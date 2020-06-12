@@ -26,3 +26,4 @@ public interface UserDao
     @Update
     int update(User user);
 }
+
